@@ -6,7 +6,6 @@ public class share {
 		// TODO Auto-generated method stub
 		System.out.println("three");
 		
-		
 	}
 
 }
